@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_gts4lv.mk
+    $(LOCAL_DIR)/voltage_gts4lv.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_gts4lv-user \
-    lineage_gts4lv-userdebug \
-    lineage_gts4lv-eng
+    voltage_gts4lv-user \
+    voltage_gts4lv-userdebug \
+    voltage_gts4lv-eng
